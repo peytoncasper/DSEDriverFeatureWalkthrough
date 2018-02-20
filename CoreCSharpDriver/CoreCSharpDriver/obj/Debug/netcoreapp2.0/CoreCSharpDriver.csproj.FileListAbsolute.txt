@@ -1,0 +1,11 @@
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.csprojResolveAssemblyReference.cache
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.csproj.CoreCompileInputs.cache
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.AssemblyInfoInputs.cache
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.AssemblyInfo.cs
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/bin/Debug/netcoreapp2.0/CoreCSharpDriver.deps.json
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/bin/Debug/netcoreapp2.0/CoreCSharpDriver.runtimeconfig.json
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/bin/Debug/netcoreapp2.0/CoreCSharpDriver.runtimeconfig.dev.json
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/bin/Debug/netcoreapp2.0/CoreCSharpDriver.dll
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/bin/Debug/netcoreapp2.0/CoreCSharpDriver.pdb
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.dll
+/Users/peyton/Documents/DSEDriverFeatureWalkthrough/CoreCSharpDriver/CoreCSharpDriver/obj/Debug/netcoreapp2.0/CoreCSharpDriver.pdb
