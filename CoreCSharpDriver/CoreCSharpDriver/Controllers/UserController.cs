@@ -22,7 +22,7 @@ namespace CoreCSharpDriver.Controllers
         public IEnumerable<string> Get()
         {
             IDseCluster cluster = DseCluster.Builder()
-                .AddContactPoint("34.208.107.23")
+                .AddContactPoint("127.0.0.1")
                 .Build();
             IDseSession session = cluster.Connect();
 
@@ -47,7 +47,7 @@ namespace CoreCSharpDriver.Controllers
         public string Get(Guid id)
         {
             IDseCluster cluster = DseCluster.Builder()
-                .AddContactPoint("34.208.107.23")
+                .AddContactPoint("127.0.0.1")
                 .Build();
             IDseSession session = cluster.Connect();
 
@@ -73,7 +73,7 @@ namespace CoreCSharpDriver.Controllers
         public Guid Post([FromBody]User user)
         {
             IDseCluster cluster = DseCluster.Builder()
-                .AddContactPoint("34.208.107.23")
+                .AddContactPoint("127.0.0.1")
                 .Build();
             IDseSession session = cluster.Connect();
             Guid user_id = Guid.NewGuid();

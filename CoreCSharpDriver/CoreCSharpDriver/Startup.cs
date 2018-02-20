@@ -34,7 +34,7 @@ namespace CoreCSharpDriver
                                         );";
 
             IDseCluster cluster = DseCluster.Builder()
-                .AddContactPoint("34.208.107.23")
+                .AddContactPoint("127.0.0.1")
                 .Build();
             IDseSession session = cluster.Connect();
 
